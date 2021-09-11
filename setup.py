@@ -15,7 +15,7 @@ def get_long_description():
 
 setup(
     name="confluence-to-sqlite",
-    description="CLI tool for loading data from a confluence instance into a SQLite database",
+    description="CLI tool for loading data from a Confluence instance into a SQLite database",
     long_description=get_long_description(),
     long_description_content_type="text/markdown",
     author="Ryan Cheley",
