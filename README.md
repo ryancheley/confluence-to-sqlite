@@ -1,3 +1,7 @@
+# Archived
+
+My day job migrated from Atlassian products to YouTrack and so this isn't a project that I'll be working on any longer. If this is a project that you'd like to take over, please contact me and I would be more than happy to transfer it
+
 # confluence-to-sqlite
 
 CLI tool for loading data from a Confluence instance into a SQLite database
